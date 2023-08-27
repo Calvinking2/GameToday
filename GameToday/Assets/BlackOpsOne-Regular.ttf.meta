@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 69e4e9739d950e7479c05f2deeef8385
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Black Ops One
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a5c742ec683f8564db619ed538366ce1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
