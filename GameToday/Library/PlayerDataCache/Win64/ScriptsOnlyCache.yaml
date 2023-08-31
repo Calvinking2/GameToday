@@ -1285,7 +1285,7 @@ ScriptsOnlyBuild:
     className: Text
   - hash:
       serializedVersion: 2
-      Hash: 5196bc25f697be3590890fd7fd4f3b25
+      Hash: e5ae6380bd9d44193620fde0595fa920
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Movement

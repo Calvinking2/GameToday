@@ -77,6 +77,7 @@ public class Movement : MonoBehaviour
     [SerializeField] Transform wallRight;
     [SerializeField] Transform lastDoor;
     [SerializeField] Transform text;
+    [SerializeField] Transform lockerDoor;
  
     [Header("ActIII StopPoints")]
     [SerializeField] Transform returnPoint;
@@ -350,6 +351,7 @@ public class Movement : MonoBehaviour
                 else if (currentPosition == locker && playerKeyword == "7328")
                 {
                     playerKeyword = "";
+                    lockerDoor.eulerAngles = new Vector3(lockerDoor.eulerAngles.x, lockerDoor.eulerAngles.y, -100);
                     StartCoroutine(ChatDelay(1, "TwilightPulse55: A Screwdriver"));
                     if (!haveScrewdriver)
                         haveScrewdriver = true;
