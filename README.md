@@ -15,6 +15,6 @@ note : Key Binding are subject to change
 
 | Key Binding       | Function          |
 | ----------------- | ----------------- |
-| W,D           | Standard movement |
+| A,D           | Standard movement |
 | Space             | Jump              |
 | Left Click        | Attack             |
